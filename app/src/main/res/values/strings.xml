@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">COVID19 REPORT</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+<!--    REAL AD-->
+<!--    <string name="applicationID">ca-app-pub-6775065064643627~2898269770</string>-->
+<!--    <string name="adUnitID">ca-app-pub-6775065064643627/4614783928</string>-->
+
+<!--    test ada-->
+    <string name="applicationID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="adUnitID">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
